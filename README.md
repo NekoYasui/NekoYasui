@@ -11,7 +11,7 @@
 
 <h3 align="center">- 💬 Ask me about everything, im always ready to help!</h3>
 
-<h3 align="center">- 📫 Reach me on discord : Shimizuro#6773</h3>
+<h3 align="center">- 📫 Reach me on discord : !̷̧̟  Nekoyasha#2189</h3>
 
 <hr>
 
@@ -21,12 +21,12 @@
 <hr>
 
 <h3 align="center">Statistics</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekoyasui&show_icons=true" alt="Shimizuro" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekoyasui&show_icons=true" alt="NekoYasui" /></p>
 
 <hr>
 
 <h3 align="center">Socials</h3>
 <p align="center">
-<a href="https://dev.to/shimizuro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Shimizuro" height="30" width="30" /></a>
-<a href="https://fb.com/lapizherda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Shimizuro" height="30" width="30" /></a>
+<a href="https://dev.to/shimizuro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="NekoYasui" height="30" width="30" /></a>
+<a href="https://fb.com/lapizherda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="NekoYasui" height="30" width="30" /></a>
 </p>
