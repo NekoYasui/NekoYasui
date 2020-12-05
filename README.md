@@ -21,7 +21,7 @@
 <hr>
 
 <h3 align="center">Statistics</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shimizuro&show_icons=true" alt="Shimizuro" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekoyasui&show_icons=true" alt="Shimizuro" /></p>
 
 <hr>
 
