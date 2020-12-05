@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shimizuro</h1>
+<h1 align="center">Hi 👋, I'm NekoYasui</h1>
 <h3 align="center">A young developer from the philippines, always ready to learn more!</h3>
 
 <hr>
