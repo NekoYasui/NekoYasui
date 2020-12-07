@@ -21,7 +21,9 @@
 <hr>
 
 <h3 align="center">Statistics</h3>
-<p align="center">&nbsp; [![NekoYasui's github stats](https://github-readme-stats.vercel.app/api?username=nekoyasu&show_icons=true&theme=highcontrast)]</p>
+<p align="center">&nbsp; <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nekoyasu&show_icons=true&theme=highcontras" />
+</a>[![NekoYasui's github stats](https://github-readme-stats.vercel.app/api?username=nekoyasu&show_icons=true&theme=highcontrast)]</p>
 
 <hr>
 
