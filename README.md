@@ -22,14 +22,9 @@
 
 <h3 align="center">Statistics</h3>
 
-# Links
-- **[Discord](https://discord.gg/2SUybzb)**
-- **[Facebook](https://fb.me/DevSnowflake)**
-- **[Twitter](https://twitter.com/DevSnowflake)**
+![NekoYasui](https://github-readme-stats.vercel.app/api?username=nekoyasui&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![Snowflake107](https://github-readme-stats.vercel.app/api?username=snowflake107&show_icons=true&theme=tokyonight&hide=["issues"])
-
-![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=snowflake107&show_icons=true&theme=tokyonight&layout=compact)
+![NekoYasui](https://github-readme-stats.vercel.app/api/top-langs?username=nekoyasui&show_icons=true&theme=tokyonight&layout=compact)
 <hr>
 
 <h3 align="center">Socials</h3>
