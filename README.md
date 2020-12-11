@@ -21,7 +21,10 @@
 <hr>
 
 <h3 align="center">Statistics</h3>
-<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=nekoyasui&show_icons=true&theme=highcontras" /></p>
+<p align="center">&nbsp; 
+![NekoYasui](https://github-readme-stats.vercel.app/api?username=nekoyasui&show_icons=true&theme=tokyonight&hide=["issues"])
+![NekoYasui](https://github-readme-stats.vercel.app/api/top-langs?username=nekoyasui&show_icons=true&theme=tokyonight&layout=compact)>
+</p>
 
 <hr>
 
