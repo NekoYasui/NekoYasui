@@ -3,7 +3,7 @@
 
 <hr>
 
-<h3 align="center">- 🔭 I’m currently working on <a hre="https://shimizu.ga">Shimizu Bot</a></h3>
+<h3 align="center">- 🔭 I’m currently working on <a hre="https://shimizu.ga">Shikishima Bot</a></h3>
 
 <h3 align="center">- 🌱 I’m currently learning HTML & CSS</h3>
 
@@ -11,7 +11,7 @@
 
 <h3 align="center">- 💬 Ask me about everything, im always ready to help!</h3>
 
-<h3 align="center">- 📫 Reach me on discord : !̷̧̟  Nekoyasha#2189</h3>
+<h3 align="center">- 📫 Reach me on discord : Nekoyasui#1400</h3>
 
 <hr>
 
