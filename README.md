@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=NekoYasui)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=NekoYasui)](https://github.com/NekoYasui)
+[![Support Server](https://img.shields.io/discord/790477008055435304.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/DEf6JZyu)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NekoYasui&theme=blue-green&show_icons=true)](https://nekoyasui.ga)
