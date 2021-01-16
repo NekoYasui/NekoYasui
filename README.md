@@ -10,6 +10,9 @@ I can create custom Discord bot🤖/web for you. If you are interested feel free
 ##### 🧰 Status: [https://status.nekoyasui.ga](https://status.nekoyasui.ga)
 
 
+<img src="https://discord.c99.nl/widget/theme-1/788971178555211787.png" align="center" alt="Nekoyasui" href="https://skillzl.cash/">
+
+
 <!--
 Here are some ideas to get you started:
 
@@ -25,5 +28,6 @@ Here are some ideas to get you started:
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=NekoYasui)](https://github.com/NekoYasui)
 [![Support Server](https://img.shields.io/discord/790477008055435304.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/DEf6JZyu)
+
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NekoYasui&theme=dracula&show_icons=true)](https://nekoyasui.ga)
