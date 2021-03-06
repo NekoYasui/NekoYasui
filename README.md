@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=NekoYasui)](https://github.com/NekoYasui)
 
 ### Join Now!
-[![Support Server](https://invidget.switchblade.xyz/yuXefsEBcJ)](https://discord.com/invite/yuXefsEBcJ)
+[![Support Server](https://invidget.switchblade.xyz/n6EnQcQNxg)](https://discord.com/invite/n6EnQcQNxg)
